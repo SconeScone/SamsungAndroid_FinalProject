@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Мой сад и огород</string>
+
+    <!--Характеристики растения-->
+    <string name="plant_image">Фото растения</string>
+    <string name="plant_name">Наименование растения</string>
+    <string name="plant_variety">Сорт</string>
+    <string name="sowing_date">Дата посева на рассаду</string>
+    <string name="planting_date">Дата высадки в грунт</string>
+    <string name="harvesting_date">Дата сборки урожая</string>
+    <string name="plant_description">Описание</string>
+    <string name="growing_conditions">Условия выращивания</string>
+
+    <string name="body">Съешь ещё этих мягких французских булок, да выпей чаю. Съешь ещё этих мягких французских булок, да выпей чаю. Съешь ещё этих мягких французских булок, да выпей чаю</string>
+    <string name="title">Съешь ещё этих мягких французских булок, да выпей чаю</string>
+    <string name="headline">Съешь ещё этих мягких французских булок, да выпей чаю</string>
+
+    <string name="dialog_deletion_message">Вы не сможете отменить данное действие.</string>
+    <string name="dialog_deletion_title">Удалить растение?</string>
+
+    <string name="add_plant">Добавить растение</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="delete_plant">Удалить</string>
+    <string name="edit_plant">Отредактировать</string>
+    <string name="plant_info">Информация о растении</string>
+    <string name="take_picture">Камера</string>
+    <string name="load_image_from_gallery">Галерея</string>
+    <string name="date_text">88.88.8888</string>
+    <string name="empty_plant_catalogue">Здесь пока ничего нет. Добавьте Ваши растения!</string>
+</resources>
