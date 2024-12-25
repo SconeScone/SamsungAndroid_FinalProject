@@ -1,2 +1,3 @@
 # SamsungAndroid_FinalProject
- Индивидулаьный проект
+
+Индивидуальный проект
